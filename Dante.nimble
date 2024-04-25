@@ -10,4 +10,4 @@ srcDir        = "src"
 # Dependencies
 
 requires "nim >= 2.0.2"
-requires "https://github.com/nim-lang/x11.git"
+requires "x11 >= 0.21.0"
